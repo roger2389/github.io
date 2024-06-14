@@ -1,7 +1,7 @@
 site_name: Github.io
-site_url: https://mydomain.org/mysite
+site_url: "http://roger2389.github.io"
 theme:
-  name: material
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.sections
