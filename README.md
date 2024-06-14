@@ -1,4 +1,4 @@
-# TEJ API
+# Github.io
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -57,13 +57,6 @@ def bubble_sort(items):
                 items[j], items[j + 1] = items[j + 1], items[j]
 ```
 
-## Icons and Emojs
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
 
 
 
