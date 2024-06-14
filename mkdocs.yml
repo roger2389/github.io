@@ -1,4 +1,5 @@
-site_name: TEJ API
+site_name: Github.io
+site_url: https://mydomain.org/mysite
 theme:
   name: material
   features:
@@ -29,7 +30,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/tejtw/TEJAPI_Python_Medium_Application
+      link: https://github.com/
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/your-linkedin-profile
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/your-twitter-handle
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -44,9 +49,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/tejtw/TEJAPI_Python_Medium_Application"  target="_blank" rel="noopener">TEJ</a>
+  &copy; 2024 <a href=""  target="_blank" rel="noopener"></a>
+
+
