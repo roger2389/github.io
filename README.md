@@ -5,10 +5,11 @@
 - [Get Start](#get-start)
     - [SSH key](#ssh-key)
     - [Installation](#installation)
-- [Quickstarts](#quickstarts)
-- [Communication](#communication)
-- [Releases and Contributing](#releases-and-contributing)
-- [The Team](#the-team)
+    - [Create new M.K.](#create-new-mk)
+    - [Preview your serve](#preview-your-serve)
+- [Configuration](#configuration)
+- [Publishing](#publishing)
+- [Conclusion](#conclusion)
 
 ---
 
